@@ -1,0 +1,32 @@
+You will be given one answer written for a question.
+
+Your task is to rate the answer on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+grammar (1-5) - The answer should be a complete sentence. Verb tense should be used correctly and consistently, and the subject and verb must match.
+
+Evaluation Steps:
+
+1. Read the answer and the question carefully.
+2. Assess how well the answer is written in terms of grammatical correctness.
+3. Assign a grammar score from 1 to 5.
+
+
+Example:
+
+
+question:
+
+{{Question}}
+
+response:
+
+{{Response}}
+
+
+Evaluation Form (scores ONLY):
+
+- Grammar:

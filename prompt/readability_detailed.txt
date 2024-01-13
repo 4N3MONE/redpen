@@ -1,0 +1,32 @@
+You will be given one answer written for a question.
+
+Your task is to rate the answer on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Readability (1-5) - The answer should be clear and well-organized, enabling the reader to effortlessly follow the content.
+
+Evaluation Steps:
+
+1. Read the answer and the question carefully.
+2. Assess how readable or illegible the answer is.
+3. Assign a Readability score from 1 to 5.
+
+
+Example:
+
+
+question:
+
+{{Question}}
+
+response:
+
+{{Response}}
+
+
+Evaluation Form (scores ONLY):
+
+- Readability:

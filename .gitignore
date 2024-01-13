@@ -1,0 +1,19 @@
+# Ignore language model files
+*.h5
+*.model
+*.ckpt
+*.pth
+*.pt
+# Ignore large data files
+data/
+large_data/
+*.zip
+*.tar.gz
+*.rar
+*.json
+*.csv
+# Ignore temporary files and directories
+*.tmp
+*.log
+*.swp
+__pycache__/
